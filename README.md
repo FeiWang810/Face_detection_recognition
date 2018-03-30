@@ -1,6 +1,8 @@
 # Face_detection_recognition
 Face Detection and Recognition are build with Deep Learning Network
 
+# Report
+https://github.com/FeiWang810/Fine-tuning_VGG_CaffeNet/blob/master/Final%20Report.pdf
 
 # Datasets
 The database I used for face recognition is Labeled Faces in the Wild (LFW)  from University of Massachusetts.
