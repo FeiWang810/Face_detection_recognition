@@ -17,3 +17,6 @@ After Fine-tuning VGG Caffe Model here: https://github.com/FeiWang810/Fine-tunin
 
 # Final demonstration 
 ![image](https://github.com/FeiWang810/Face_detection_recognition/blob/master/image/demo.png)
+
+# Report
+https://github.com/FeiWang810/Fine-tuning_VGG_CaffeNet/blob/master/Final%20Report.pdf
